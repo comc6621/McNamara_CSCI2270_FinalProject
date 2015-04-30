@@ -4,7 +4,7 @@ For our poject, Joe Castagneri and I, Conor McNamara, built the game checkers.  
 #GROUP MEMBERS
 Conor McNamara
 
-Joe Castegnari
+Joe Castagnari
 
 #HOW TO RUN
 Run the program in any IDE you wish or through the terminal accessing Graph.cpp, Driver.cpp and Graph.h
